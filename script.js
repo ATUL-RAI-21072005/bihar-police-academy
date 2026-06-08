@@ -221,7 +221,7 @@ document.addEventListener('DOMContentLoaded', () => {
             profile: {
                 name: "Vashisht Muni",
                 roll: "2350914255",
-                post: "Havaldar",
+                post: "Havildar",
                 advt: "ADVT-01/2024",
                 totalMarks: "100",
                 obtainedMarks: "75",
