@@ -199,20 +199,20 @@ document.addEventListener('DOMContentLoaded', () => {
             ]
         },
         // Add new candidate records below
-        "3456940027": {
+        "2350915872": {
             password: "10.03.2004",
             profile: {
-                name: "Soni Yadav",
-                roll: "3456940027",
-                post: "Clerk",
-                advt: "ADVT-01/2025",
-                totalMarks: "200",
-                obtainedMarks: "141",
+                name: "Soni Tiwari",
+                roll: "2350915872",
+                post: "Havildar",
+                advt: "ADVT-01/2024",
+                totalMarks: "100",
+                obtainedMarks: "72",
                 status: "PASS"
             },
             marks: [
-                { subject: "Written Test", max: 100, obtained: 65 },
-                { subject: "Typing Test", max: 100, obtained: 76 }
+                { subject: "Written Test", max: 100, obtained: 72 },
+                
             ]
         },
         // Add new candidate records below
